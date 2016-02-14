@@ -9,6 +9,10 @@
 
 <img src="randomicon.php"/>
 
+<?php
+$instancia=$_SERVER["WEBSITE_INSTANCE_ID"];
+?>
+
 </body>
 </html>
 
