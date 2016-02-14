@@ -6,6 +6,7 @@
 <body>
 
 <h1>Icono del día</h1>
+<h1>Icono del día</h1>
 
 <img src="randomicon.php"/>
 
